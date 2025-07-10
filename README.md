@@ -3,7 +3,7 @@ Hello!
 
 Here are the Power BI tables I've created—formatted and structured for clarity.
 
-## Performance Report Dashboard – Plant Companies
+## 1)Performance Report Dashboard – Plant Companies
 
 This interactive Power BI dashboard provides a dynamic performance overview tailored for business analysis. It allows users to track key metrics like sales, quantity, and gross profit across different countries and time periods with slicers for year, category, and region.
 
